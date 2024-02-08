@@ -5,12 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426)](https://github.com/anuraghazra/github-readme-stats)  
 #####  Like the graph above, I mainly program Python and C++😊
 ---
-<details>
-<summary>
-Things I can do using a computer...
-</summary>
+<details open>
+<summary><b>Things I can do using a computer...</b></summary>
   <br>
-  
+
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![mspoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -25,11 +23,9 @@ Things I can do using a computer...
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![todolist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 ![googledrive](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</datails>     
-
-<details>
-<summary>My Computer Specifications</summary>
+</datails>   
+<details open>
+<summary><b>My Computer Specifications</b></summary>
   <br>
 
   ![cpu](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -37,4 +33,4 @@ Things I can do using a computer...
   ![js](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_SE-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
   ![js](https://img.shields.io/badge/Windows-HP_14s_dq5071TU-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
-</datails> 
+</datails>  
