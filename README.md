@@ -4,6 +4,7 @@
 #####  I'm from Republic of Korea!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426)](https://github.com/anuraghazra/github-readme-stats)  
 #####  Like the graph above, I mainly program Python and C++😊
+
 ---
 <details open>
 <summary><b>Things I can do using a computer...</b></summary>
