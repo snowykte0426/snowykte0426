@@ -37,4 +37,5 @@
   ![js](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_SE-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
   ![js](https://img.shields.io/badge/Windows-HP_14s_dq5071TU-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
+
 </datails>  
