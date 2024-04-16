@@ -7,7 +7,7 @@
 
 ---
 <details open>
-<summary><b>Things I can do using a computer...</b></summary>
+<summary><b>Things I can do using a computer...(It's not like I wrote things that I'm good at!!)</b></summary>
   <br>
 
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
