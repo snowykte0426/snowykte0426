@@ -58,10 +58,11 @@
   ![cpu](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   ![gpu](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)<br>
   ![cpu](https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![gpu](https://img.shields.io/badge/NVIDIA-RTX4080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-  ![js](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_SE-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
-  ![js](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
-  ![js](https://img.shields.io/badge/Windows-HP_14s_dq5071TU-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+  ![gpu](https://img.shields.io/badge/NVIDIA-RTX4080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)<br>
+  ![labtop](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_Pro_360-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
+  ![labtop](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_SE-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
+  ![labtop](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
+  ![labtop](https://img.shields.io/badge/Windows-HP_14s_dq5071TU-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 
 </datails>  
