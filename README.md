@@ -9,6 +9,7 @@
 #####  Right now, he wants to be a **backend developer**
 
 ---
+
 <details open>
   <summary><b>Studying...</b></summary>
   <br>
@@ -16,8 +17,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  
-<summary><b>Tech Stack</b></summary>
+
+</details>
+
+<details open>
+  <summary><b>Tech Stack</b></summary>
   <br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -35,7 +39,7 @@
 ![googlest](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)<br>
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![pyide](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -54,7 +58,8 @@
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
-</datails>   
+</details>   
+
 <details open>
 <summary><b>My Computer Specifications</b></summary>
   <br>
@@ -68,6 +73,6 @@
   ![labtop](https://img.shields.io/badge/Windows-SAMSUNG_Galaxybook_2_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
   ![labtop](https://img.shields.io/badge/Windows-HP_14s_dq5071TU-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
+</details>  
 
-</datails>  
 </div>
