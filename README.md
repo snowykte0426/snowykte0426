@@ -5,7 +5,7 @@
 #####  I'm still a high school student learning programming(Actually, I'm not good at English😭)
 #####  I'm from Republic of Korea!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowykte0426)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&theme=default&langs_count=12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=Pug,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 #####  Like the graph above, I mainly program Python and C Lang,Springboot(Java)😊
 #####  Right now, he wants to be a **backend developer**
 
