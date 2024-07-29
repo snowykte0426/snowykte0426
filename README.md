@@ -4,8 +4,11 @@
 #####  Another nickname is 'Amond'  
 #####  I'm still a high school student learning programming(Actually, I'm not good at English😭)
 #####  I'm from Republic of Korea!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowykte0426&count_private=true&include_all_commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=Pug,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowykte0426&" alt="snowykte0426"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=Pug,SCSS" alt="Top Langs">
+</a>
+    
 #####  Like the graph above, I mainly program Python and C Lang,Springboot(Java)😊
 #####  Right now, he wants to be a **backend developer**
 
