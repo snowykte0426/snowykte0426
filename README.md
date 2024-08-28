@@ -9,7 +9,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=Pug,SCSS" alt="Top Langs">
 </a>
     
-#####  Like the graph above, I mainly program Python and C Lang,Springboot(Java)😊
+#####  Like the graph above, I mainly program Python and C Lang,Springboot(Kotlin)😊
 #####  Right now, he wants to be a **backend developer**
 
 ---
