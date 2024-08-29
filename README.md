@@ -6,7 +6,7 @@
 #####  I'm from Republic of Korea!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=snowykte0426&" alt="snowykte0426"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=Pug,SCSS" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&langs_count=8&hide=HTML,CSS" alt="Top Langs">
 </a>
     
 #####  Like the graph above, I mainly program Python and C Lang,Springboot(Kotlin)😊
