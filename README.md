@@ -10,7 +10,7 @@
 </a>
     
 #####  Like the graph above, I mainly program Python and C Lang,Springboot(Kotlin)😊
-#####  Right now, he wants to be a **backend developer**
+#####  Right now, he wants to be a **web developer**
 
 ---
 
