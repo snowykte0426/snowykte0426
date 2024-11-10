@@ -1,7 +1,6 @@
 <div align="center">
 
-
-# Hi! I'm snowykte0426🖐️  
+# Hi! I'm snowykte0426🖐️
 #####  Another nickname is 'Amond'  
 #####  I'm still a high school student learning programming(Actually, I'm not good at English😭)
 #####  I'm from Republic of Korea!
