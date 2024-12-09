@@ -28,7 +28,7 @@
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![premirepro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)<br>
 
-<details open>
+<details>
 <summary><b>My Computer Specifications</b></summary>
   <br>
 
