@@ -44,6 +44,7 @@
 <details>
 <summary><b>My Computer Specifications</b></summary>
   <br>
+
   ![cpu](https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   ![gpu](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)<br>
   ![gpu](https://img.shields.io/badge/NVIDIA-RTX4080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)<br>
