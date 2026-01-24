@@ -1,4 +1,2 @@
 <img src="https://githubcard.com/snowykte0426.svg?d=77xfeHqf" alt="GitHub Stats" />
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=snowykte0426&theme=synthwave)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=snowykte0426" alt="GitHub Streak" />
